@@ -40,6 +40,14 @@ body {
 }
 
 /* Product Grid */
+
+.product-category-header {
+    text-align: center;
+    padding: 10px;
+    margin: 5px 80px;
+    border: 2px solid #4CAF50;
+}
+
 .product-grid {
     display:flex;
     flex-direction: column;
